@@ -24,3 +24,5 @@ for (var i = 0; i < elements.length; i++) {
     this.className += " active";
   });
 }
+
+console.log("Add console by nyihtutlwin");
