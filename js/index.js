@@ -29,3 +29,5 @@ console.log("Add console by nyihtutlwin");
 console.log("Add console by dev1");
 console.log("Add console by dev2");
 console.log("Add console by dev1 on github");
+
+console.log("Add console.log by conflict state by dev2");
