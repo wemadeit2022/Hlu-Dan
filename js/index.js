@@ -1,3 +1,10 @@
+console.log("Add console by nyihtutlwin");
+console.log("Add console by dev1");
+console.log("Add console by dev2");
+console.log("Add console by dev1 on github");
+
+console.log("Add console.log by conflict state by dev2");
+console.log("Add conflict text by dev1");
 var elements = document.querySelectorAll(
   "header > #header_wrapper > nav > ul > li > a"
 );
@@ -24,11 +31,3 @@ for (var i = 0; i < elements.length; i++) {
     this.className += " active";
   });
 }
-
-console.log("Add console by nyihtutlwin");
-console.log("Add console by dev1");
-console.log("Add console by dev2");
-console.log("Add console by dev1 on github");
-
-console.log("Add console.log by conflict state by dev2");
-console.log("Add conflict text by dev1");
